@@ -1,0 +1,66 @@
+
+
+<body{
+
+
+
+}
+
+.navbar{
+
+
+box-shadow: 2px 2px 5px  #3292a6;
+background: #fff !important;
+opacity: 0.9;
+
+
+}
+.nav-item{
+
+padding-right: 40px;
+
+font-size: 30px;
+
+}
+.nav-item:last-child{
+
+
+	padding-right: 0px;
+
+}
+.nav-link{
+
+color: #252525 !important;
+
+}
+.nav-link:hover{
+
+	color: #3292a6 !important;
+}
+.primary-overly{
+
+
+
+	background: #6FB2B9;
+}
+.emon1{
+
+background: #3292A6;
+color: white;
+
+}
+#authors img{
+
+
+margin-top: -50px;
+
+}
+.rounded-circle{
+
+margin-top: -50px;
+
+}
+.hover .card:hover{
+background: #3292A6;
+
+}
